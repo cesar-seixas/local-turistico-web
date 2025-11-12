@@ -3,3 +3,33 @@
   margin: 0;
   box-sizing:border-box;
 }
+:root {
+  font-family: "Open Sans", sans-serif; 
+  line-height:normal;
+
+}
+
+#page {
+  width: 1120px;
+  margin: 88px auto 65px;
+  /* background-color: aquamarine; */
+
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#about img {
+border-radius: 28px ;
+width: 1120px;
+
+}
+
+#about p {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  color: #333333;
+}
