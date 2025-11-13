@@ -122,3 +122,18 @@ color: #E5245E;
 .compras {
 color: #E95E10;
 }
+.legenda {
+text-align: center;
+font-size: 16px;
+}
+footer {
+  text-align: center;
+  padding-bottom: 48px ;
+  color: #333333;
+}
+
+footer img {
+  vertical-align: middle;
+  height: 16px;
+  width: 16px;
+}
