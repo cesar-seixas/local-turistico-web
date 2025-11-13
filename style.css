@@ -6,19 +6,28 @@
 :root {
   font-family: "Open Sans", sans-serif; 
   line-height:normal;
+  background-color: black;
   
+}
+body {
+  width: 1300px;
+  margin: auto;
+   border: solid;
+   border-width: 1px; 
+  background-color: #ffffff;
 }
 
 #page {
   width: 1120px;
-  margin: 88px auto 65px;
-  /* background-color: aquamarine; */
-
+  margin:80px auto 65px;
+  /* background-color:aquamarine; visualizador de container */
+ 
 }
 
 h1 {
   font-size: 36px;
   font-weight: bold;
+  margin: 8px 0 40px;
 }
 
 #about img {
@@ -33,12 +42,14 @@ height: 660px;
   font-style: italic;
   font-size: 14px;
   color: #333333;
+  margin: 24px 0 40px;
 }
 
 .Headline {
   font-size: 16px;
   font-weight: bold;
   color: #E1624F;
+
 }
 
 .list img {
@@ -55,6 +66,7 @@ font-size: 16px;
 
 h2 {
   font-size: 32px;
+  margin: 2px 0 8px;
 }
 
 h3 {
@@ -71,4 +83,8 @@ color: #1B1B1B;
   width: 100%;
   height: 1px;
   background-color: #d9d9d9;
+}
+
+.title-list {
+  margin-top: 40px;
 }
