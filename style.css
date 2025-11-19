@@ -95,6 +95,10 @@ color: #1B1B1B;
   margin: 20px 0 48px;
 }
 
+.lista {
+  margin-top: 16px;
+}
+
 .divider + p {
   margin: 40px 0;
 }
