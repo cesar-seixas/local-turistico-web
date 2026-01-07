@@ -1,19 +1,19 @@
 # Local Turístico
 
-## 📌 Descrição
+##  Descrição
 Projeto desenvolvido com HTML e CSS com o objetivo de praticar estruturação de páginas web e responsividade.
 
-## 🛠️ Tecnologias
+## Tecnologias
 - HTML5
 - CSS3
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 Criar uma página informativa sobre um local turístico, aplicando boas práticas de layout e semântica.
 
-## 🌐 Deploy
+## Deploy
 https://cesar-seixas.github.io/local-turistico-web/
 
-## 📚 O que aprendi
+## O que aprendi
 - HTML semântico
 - Organização de CSS
 - Responsividade
